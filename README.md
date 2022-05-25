@@ -21,6 +21,7 @@ Step 3 : Install extension and verify
 ```
 make install
 ```
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/3006298/170358407-d10206b9-6700-4f55-9559-36cc74cb558c.png">
 
 If you want to make changes to the menu.sh script, docker-compose or ui components you can run the following command to quickly uninstall, rebuild and install updated extension :
 ```

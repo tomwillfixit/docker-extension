@@ -1,6 +1,4 @@
-# Docker Extension HelloWorld Example
-
-`Turn any script into a Docker Extension in about 3 minutes*`
+# Turn any script into a Docker Extension in about 3 minutes*
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7CTFEN)
 

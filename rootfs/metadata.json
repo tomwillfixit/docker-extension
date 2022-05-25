@@ -1,0 +1,16 @@
+{
+  "icon": "vault.svg",
+  "desktop-plugin-version": "0.1.0",
+  "name": "helloworld",
+  "provider": "tomwillfixit",
+  "vm": {
+    "composefile":"docker-compose.yml"
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "helloworld",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}

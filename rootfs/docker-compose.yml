@@ -1,0 +1,7 @@
+services:
+  helloworld:
+    image: ${DESKTOP_PLUGIN_IMAGE}
+    ports:
+      - "8129:8080"
+    privileged: true
+    restart: always

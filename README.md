@@ -8,7 +8,7 @@ This code is heavily influenced by : https://github.com/thaJeztah/docker-shell/t
 
 ## Usage
 
-Step 1 : Install the Docker Extension CLI. Instructions can be found [here](https://github.com/docker/extensions-sdk/releases/).
+Step 1 : If you have [Docker Desktop 4.10.0](https://docs.docker.com/desktop/release-notes/#docker-desktop-4100) or newer installed then you already have the "docker extension" command available. We recommend upgrading Docker Desktop but if you need to stay on a pre 4.10.0 version then you can install the Docker Extension CLI. Instructions can be found [here](https://github.com/docker/extensions-sdk/releases/).
 
 Step 2 : Build the extension image
 ```
